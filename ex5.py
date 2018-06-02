@@ -1,6 +1,6 @@
 #####################################################
 # FILE: EX5.py
-# WRITERS: Ido Natan, Tom Poyarkov
+# WRITERS: Ido Natan
 # EXERCISE: EX5 intro2cs2
 # DESCRIPTION: a program that compares between stores
 ######################################################
